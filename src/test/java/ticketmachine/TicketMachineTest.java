@@ -5,7 +5,7 @@ import org.junit.jupiter.api.*;
 
 class TicketMachineTest {
 	private static final int PRICE = 50; // Une constante
-
+	//testDECHENAIS-ALEXIS
 	private TicketMachine machine; // l'objet à tester
 
 	@BeforeEach
